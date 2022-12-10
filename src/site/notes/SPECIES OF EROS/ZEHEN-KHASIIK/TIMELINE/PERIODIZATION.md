@@ -52,5 +52,3 @@ EVEZ ETIT YESKIV ZU KARIIO 15-R
 - TBA
 
 tba
-
-#kariian 
