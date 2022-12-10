@@ -1,0 +1,121 @@
+---
+{"dg-publish":true,"permalink":"/characters/ardaka/"}
+---
+
+> CHARACTER PROFILE
+
+# DOSSIER
+
+`FULL NAME`:  TBA
+- `MEANING`:  TBA
+- `PHONETICS`: TBA
+
+`ALIASES`: TBA
+
+`IMMEDIATE FAMILY:`  TBA
+- TBA
+
+`IDENTITY`: TBA
+- `PRONOUNS`: TBA
+- `ORIENTATION`: TBA
+
+`SPECIES`: TBA
+- `SUBRACE`: TBA
+- `ETHNICITY`: TBA
+
+``AGE``: TBA
+- `MATURITY EQUIVALENT`: TBA
+
+`ORIGIN`: TBA
+
+`LOCATION`: TBA
+
+`OCCUPATION`: TBA
+
+---
+
+## MORE?
+`ALIGNMENT:
+- [ ] LAWFUL
+- [ ] NEUTRAL
+- [ ] CHAOTIC
+- [ ] GOOD
+- [ ] EVIL
+
+| `POSITIVE TRAITS`: | `NEUTRAL TRAITS`: | `NEGATIVE TRAITS`: |
+| ---------------- | --------------- | ---------------- |
+| TBA              |  TBA            |  TBA            |
+
+`LIKES`: TBA
+
+`DISLIKES`: TBA
+
+`ALIGNMENT`: TBA
+
+---
+
+### VISUAL DATA
+
+`HEIGHT`: TBA
+- `WEIGHT:`: TBA
+
+`COLORATION`: TBA
+- `SKIN/FUR/SCALES?` TBA
+
+`MARKINGS`: TBA
+- `SCARS?`: TBA
+- `TATTOOS?`: TBA
+- `PIERCINGS?`: TBA
+
+`EYES`: TBA
+
+`PHYSIQUE`: TBA
+
+`NOTABLE DETAILS:` 
+1. TBA
+2. TBA
+
+---
+
+### CAPABILITIES
+
+`EDUCATION`: TBA
+
+`MOST NOTABLE SKILL`: TBA
+
+`PROFICIENCIES:` TBA
+
+`TALENTS:`
+- TBA
+- TBA
+
+`GEAR OF CHOICE:` 
+1. TBA
+2. TBA
+
+`MODIFICATIONS:` 
+- *`GENE MOD`*: TBA
+- *`CYBERNETIC`*: TBA
+
+---
+
+## RELATIONS
+
+**NAME**: STATUS
+> DESC
+
+**NAME**: STATUS
+> DESC
+
+**NAME**: STATUS
+> DESC
+
+### REPUTATION
+
+- `THE SILENT DOMINION`: TBA
+- `FEDERATION OF ALLIED SPECIES`: TBA
+
+---
+
+
+#character #dominion #kariian
